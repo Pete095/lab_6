@@ -3,4 +3,5 @@ chrome        ford            android
 edge          gm              macos
 safari        toyota          ios
                               taizen
+                              samsung
 
