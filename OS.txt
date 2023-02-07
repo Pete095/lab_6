@@ -2,5 +2,5 @@ Web Browser   Car Brands      OS
 chrome        ford            android
 edge          gm              macos
 safari        toyota          ios
-
+                              taizen
 
